@@ -1,24 +1,35 @@
-# README
+# Image sharing
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+>
 
-Things you may want to cover:
 
-* Ruby version
+## Built With
 
-* System dependencies
+## Live
 
-* Configuration
+- Live app: [image-sharing]()
 
-* Database creation
+## Getting Started
 
-* Database initialization
+To get a local copy up and running follow these setup steps.
 
-* How to run the test suite
+**Prerequisites**
 
-* Services (job queues, cache servers, search engines, etc.)
+- You need to have `node.js` installed in your system
 
-* Deployment instructions
+## Authors
 
-* ...
+👤 **Toyosi Taiwo**
+
+- GitHub: [@Yorsyboy](https://github.com/Yorsyboy)
+- Twitter: [@tboytaiwo](https://twitter.com/Tboytaiwo)
+- LinkedIn: [Toyosi Taiwo](https://linkedin.com/in/taiwo-toyosi)
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+## Show your support
+
+Give a ⭐️ if you like this project
