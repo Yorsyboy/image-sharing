@@ -5,6 +5,8 @@
 
 ## Built With
 
+- Rby on Rails
+
 ## Live
 
 - Live app: [image-sharing]()
